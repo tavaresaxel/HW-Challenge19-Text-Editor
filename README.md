@@ -16,7 +16,7 @@ This is a website that launches a text editor playground where you can write not
 
 ## Installation
 
-To use the teext editor visit the website:            . If you want to install the app and not have to rely on the URL click the button that says install and you will have it on your computer as an app.
+To use the teext editor visit the website: https://hw-challenge19-text-editor.onrender.com/ . If you want to install the app and not have to rely on the URL click the button that says install and you will have it on your computer as an app.
 
 ## Usage
 
